@@ -3,10 +3,10 @@
 Prebuilt MIUI Leica Camera to include in custom ROM builds.
 
 ### Supported devices
+* POCO F5/Redmi Note 12 Turbo (marble)
 * POCO F4/Redmi K40S (munch)
 * POCO X3 Pro (vayu)
 * Xiaomi 11 Lite NE (lisa)
-* Redmi Note 12 Turbo / POCO F5 (marble)
 
 ### How to use?
 
@@ -24,5 +24,5 @@ $(call inherit-product-if-exists, vendor/xiaomi/camera/miuicamera.mk)
 ```
 PRODUCT_SYSTEM_PROPERTIES += \
     ro.miui.notch=1 \
-    ro.product.mod_device=lisa
+    ro.product.mod_device=marble
 ```

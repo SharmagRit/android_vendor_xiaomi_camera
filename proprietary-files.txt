@@ -1,7 +1,6 @@
 # From lisa MIUI V14.0.3.0.TKOMIXM package
 system/lib64/libcamera_algoup_jni.xiaomi.so
 system/lib64/libcamera_mianode_jni.xiaomi.so
-system/lib64/libgui.so:system/lib64/libgui-xiaomi.so
 system/lib64/libmicampostproc_client.so
 system/lib64/vendor.xiaomi.hardware.campostproc@1.0.so
 
